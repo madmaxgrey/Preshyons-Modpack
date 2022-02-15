@@ -9,12 +9,12 @@ Stalker Anomaly
 ____________________________________________________________________
 My Modpack for S.T.A.L.K.E.R Anomaly
 
-**Installation Instructions**
-
 Modpack Download
 1. Click link below to download it from google drive
 
 [Preshyon's Modpack](https://drive.google.com/file/d/1t3xGe9ldNEpQG-DTFzmrnOrHPyaiLXbW/view?usp=sharing)
+
+**Installation Instructions**
 
 1. run the game atleast once to generate the files once finished carry on with the next instructions
 
