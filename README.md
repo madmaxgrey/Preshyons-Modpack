@@ -14,7 +14,7 @@ Modpack Download
 
 * [Preshyon's Modpack](https://drive.google.com/file/d/1t3xGe9ldNEpQG-DTFzmrnOrHPyaiLXbW/view?usp=sharing)
 
-**Installation Instructions**
+### **Installation Instructions**
 
 1. run the game atleast once to generate the files once finished carry on with the next instructions
 
