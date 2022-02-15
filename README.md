@@ -1,11 +1,11 @@
 # Preshyons-Modpack
 Stalker Anomaly
 
-• Download link Below for Game
+* Download link Below for Game
 
 [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 
-• extract it to any where you want it
+* extract it to any where you want it
 ____________________________________________________________________
 My Modpack for S.T.A.L.K.E.R Anomaly
 
