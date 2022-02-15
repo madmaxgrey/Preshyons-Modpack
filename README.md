@@ -1,7 +1,5 @@
 # Preshyons-Modpack
-My Modpack for S.T.A.L.K.E.R Anomaly
-
-**Installation Instructions**
+Stalker Anomaly
 
 • Download link Below for Game
 
@@ -9,6 +7,9 @@ My Modpack for S.T.A.L.K.E.R Anomaly
 
 • extract it to any where you want it
 ____________________________________________________________________
+My Modpack for S.T.A.L.K.E.R Anomaly
+**Installation Instructions**
+
 Modpack Download
 1. Click link below to download it from google drive
 
