@@ -10,10 +10,9 @@ My Modpack for S.T.A.L.K.E.R Anomaly
 • extract it to any where you want it
 ____________________________________________________________________
 Modpack Download
+1. Click link below to download it from google drive
 
-Click link below to download it from google drive
-
-1. [Preshyon's Modpack](https://drive.google.com/file/d/1t3xGe9ldNEpQG-DTFzmrnOrHPyaiLXbW/view?usp=sharing)
+[Preshyon's Modpack](https://drive.google.com/file/d/1t3xGe9ldNEpQG-DTFzmrnOrHPyaiLXbW/view?usp=sharing)
 
 1. run the game atleast once to generate the files once finished carry on with the next instructions
 
