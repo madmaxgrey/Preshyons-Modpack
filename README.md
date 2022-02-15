@@ -7,7 +7,7 @@ Stalker Anomaly
 
 * extract it to any where you want it
 * Anomaly setup guide by Wavey on youtube
-<a href="https://www.youtube.com/embed/lTrlsXKAe1E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ____________________________________________________________________
 My Modpack for S.T.A.L.K.E.R Anomaly
 
