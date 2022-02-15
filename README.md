@@ -9,7 +9,9 @@ extract it to any where you want it
 [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 
 
-Click CODE at the top right of page to download as ZIP or simply use git clone with link in a Windows Terminal if git is installed
+There are 2 ways to download my Modpack
+1. Click CODE at top right of page and click Download ZIP
+2. Click link below to download it from google drive
 
 [Preshyon's Modpack]()
 
