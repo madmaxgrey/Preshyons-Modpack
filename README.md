@@ -54,4 +54,22 @@ Modpack Download
 - [Dynamic Tasks](https://www.moddb.com/mods/stalker-anomaly/addons/more-dynamic-tasks) New tasks are old tasks with more variety
 - [ArszisMutantBleeding](https://www.moddb.com/mods/stalker-anomaly/addons/arszis-mutant-bleeding) Makes it so mutants can bleed out
 - [Mutant Autoaim](https://www.moddb.com/mods/stalker-anomaly/addons/disable-autoaiming-on-mutant-jumpattacks-anomaly-1511) This addon entirely disables autoaim or halves the autoaiming factor
-- 
+- [Mutant Icons](https://www.moddb.com/mods/stalker-anomaly/addons/new-mutant-icon-parts-meat-151) Replaces the Mutant items to look nicer 
+- [MutantLootEdit](https://www.moddb.com/mods/stalker-anomaly/addons/mutants-have-all-mutant-parts) Mutants Have All Mutant Parts
+- [Nitpicker's Modpack](https://www.moddb.com/mods/stalker-anomaly/addons/nitpickermodpack) A quintessential pack of essential mods
+- [Perk Based Artefacts](https://www.moddb.com/mods/stalker-anomaly/addons/perk-based-artefacts) A unique twist on overhauling old junk artefacts beyond the boundaries of simple stat changers
+- [Looting Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/looting-overhaul) Changes the way the condition of weapon/outfit/helmets dropped by dead enemies
+- [WDOB](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-weapons-drop-on-bodies) WDOB > Weapons drop on Bodies
+- [Death Animations](https://www.moddb.com/mods/stalker-anomaly/addons/death-animations) Adds death animations for killed NPCs
+- [HarukaSillSystem](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skill-system) This addon adds skills with experience and leveling to anomaly
+- [Stealth](https://www.moddb.com/mods/stalker-anomaly/addons/stealth1) Helps with bad AI detection of the player, can allow you to sneak around
+- [PreBlowoutMurder](https://www.moddb.com/mods/stalker-anomaly/addons/pre-blowout-murder) Makes crows go crazy before emissions
+- [Camera Reanimation Project](https://www.moddb.com/mods/stalker-anomaly/addons/camera-reanimation-project-inertia) Adds camera animations to jumping/landing
+- [EFT Aim Rattle](https://www.moddb.com/mods/stalker-anomaly/addons/eft-aim-rattle) Escape from Tarkov Aim Rattle
+- [EFT J&L SFX](https://www.moddb.com/mods/stalker-anomaly/addons/eft-jumpland-sfx) Adds in sound effects from Escape From Tarkov for when player is jumping and landing
+- [Weapon Sway](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-sway) Customizable weapon sway with million MCM options
+- [HighResLoadingScreenV](https://www.moddb.com/mods/stalker-anomaly/addons/high-resolution-loading-screen) makes your loading screen look more clear
+- [HighResPDAMapsV](https://www.moddb.com/mods/stalker-anomaly/addons/high-resolution-maps) makes the map on your PDA look more High Quality
+- [Reners PDA Renewed](https://www.moddb.com/mods/stalker-anomaly/addons/reners-pda-renewed-10-rpr) A retexturization of the PDA actor and his models + New Sounds
+- [Onis Tales](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales form the zone replaces the information in the loading screen with more immersive short stories
+- [WTF](https://discord.com/invite/JSsVJWvZwD) Weird Tasks Framework only Avaliable on their Discord server link directs to there 
