@@ -5,6 +5,7 @@ My Modpack for S.T.A.L.K.E.R Anomaly
 Download link Below for Game
 
 [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
+
 extract it to any where you want it
 
 Click CODE at the top right of page to download as ZIP or simply use git clone with link in a Windows Terminal if git is installed
