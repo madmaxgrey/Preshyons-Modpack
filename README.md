@@ -10,7 +10,6 @@ ____________________________________________________________________
 My Modpack for S.T.A.L.K.E.R Anomaly
 
 Modpack Download
-1. Click link below to download it from google drive
 
 [Preshyon's Modpack](https://drive.google.com/file/d/1t3xGe9ldNEpQG-DTFzmrnOrHPyaiLXbW/view?usp=sharing)
 
