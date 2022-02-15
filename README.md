@@ -3,12 +3,11 @@ My Modpack for S.T.A.L.K.E.R Anomaly
 
 **Installation Instructions**
 
-Download link Below for Game
-
-extract it to any where you want it
+• Download link Below for Game
 
 [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 
+• extract it to any where you want it
 
 There are 2 ways to download my Modpack
 1. Click CODE at top right of page and click Download ZIP
