@@ -8,7 +8,7 @@ My Modpack for S.T.A.L.K.E.R Anomaly
 [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 
 • extract it to any where you want it
-
+____________________________________________________________________
 There are 2 ways to download my Modpack
 1. Click CODE at top right of page and click Download ZIP
 2. Click link below to download it from google drive
