@@ -15,10 +15,10 @@ There are 2 ways to download my Modpack
 
 [Preshyon's Modpack]()
 
-run the game atleast once to generate the files once finished carry on with the next instructions
+1. run the game atleast once to generate the files once finished carry on with the next instructions
 
-extract the MO2 folder and the 3 other folder to your game folder and allow it to replace the files it wants
+2. extract the MO2 folder and the 3 other folder to your game folder and allow it to replace the files it wants
 
-open the MO2 folder and launch the ModOrganizer.exe and set it up as usual with a portable instance
+3. open the MO2 folder and launch the ModOrganizer.exe and set it up as usual with a portable instance
 
-once opened in the profiles Drop down menu select Preshyon's Modpack to load and enable all the mods
+4. once opened in the profiles Drop down menu select Preshyon's Modpack to load and enable all the mods
