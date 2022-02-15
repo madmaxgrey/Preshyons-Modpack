@@ -3,7 +3,7 @@
 
 - Download link Below for Game
 
-- [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
+-- [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 
 extract it to any where you want it
 
