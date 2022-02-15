@@ -24,3 +24,5 @@ Modpack Download
 3. open the MO2 folder and launch the ModOrganizer.exe and set it up as usual with a portable instance
 
 4. once opened in the profiles Drop down menu select Preshyon's Modpack to load and enable all the mods
+
+[![Anomaly setup guide by wavey on youtube](http://img.youtube.com/vi/lTrlsXKAe1E/0.jpg)](http://www.youtube.com/watch?v=lTrlsXKAe1E)
