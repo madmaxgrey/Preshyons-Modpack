@@ -57,7 +57,7 @@ Modpack Download
 - [Mutant Icons](https://www.moddb.com/mods/stalker-anomaly/addons/new-mutant-icon-parts-meat-151) Replaces the Mutant items to look nicer 
 - [MutantLootEdit](https://www.moddb.com/mods/stalker-anomaly/addons/mutants-have-all-mutant-parts) Mutants Have All Mutant Parts
 - [Nitpicker's Modpack](https://www.moddb.com/mods/stalker-anomaly/addons/nitpickermodpack) A quintessential pack of essential mods
-- [Perk Based Artefacts](https://www.moddb.com/mods/stalker-anomaly/addons/perk-based-artefacts) A unique twist on overhauling old junk artefacts beyond the boundaries of simple stat changers
+- [Perk Based Artefacts](https://www.moddb.com/mods/stalker-anomaly/addons/perk-based-artefacts) A unique twist on overhauling old junk artefacts beyond the boundaries of simple stats
 - [Looting Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/looting-overhaul) Changes the way the condition of weapon/outfit/helmets dropped by dead enemies
 - [WDOB](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-weapons-drop-on-bodies) WDOB > Weapons drop on Bodies
 - [Death Animations](https://www.moddb.com/mods/stalker-anomaly/addons/death-animations) Adds death animations for killed NPCs
