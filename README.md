@@ -38,7 +38,7 @@ Modpack Download
 - [JSRS](https://www.moddb.com/mods/stalker-anomaly/addons/solarint-gunshot-overhaul) Weapon sound replacement
 - [SoundScape](https://www.moddb.com/mods/stalker-anomaly/addons/soundscape-overhaul-2) World sound replacement
 - [Maid's Vanilla HD Icons](https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons) Replaces the Anomaly icons with completely newly rendered ones
-- [Glowsticks](https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks) Add glowsticks that you can drop of throw (great for Underground Labs)
+- [Glowsticks](https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks) Add glowsticks that you can drop or throw (great for Underground Labs)
 - [Trader Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/trader-overhaul-complete) An extensive overhaul of all of the traders in the zone
 - [Mags Redux](https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux) Adds in Magazines for guns in the Escape from Tarkov Style
 - [Starting Loadout Rebalanced](https://www.moddb.com/mods/stalker-anomaly/addons/starting-loadout-rebalanced-multiple-mods-support) Rebalance the starting loadouts
