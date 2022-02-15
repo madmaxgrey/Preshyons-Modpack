@@ -1,5 +1,5 @@
 # Preshyons-Modpack
-my modpack for Stalker Anomaly
+My Modpack for S.T.A.L.K.E.R Anomaly
 
 **Installation Instructions**
 Download link Below for Game
@@ -8,7 +8,8 @@ Download link Below for Game
 extract it to any where you want it
 
 Click the link below to download modpack
-[Preshyon's Modpack](https://drive.google.com/file/d/1x0_58EDs2w453g9_z6gr4swmpYZB-GBG/view?usp=sharing)
+or Download directly from my Github
+[Preshyon's Modpack]()
 
 run the game atleast once to generate the files once finished carry on with the next instructions
 
