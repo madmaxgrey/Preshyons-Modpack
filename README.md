@@ -75,5 +75,5 @@ Modpack Download
 - [WTF](https://discord.com/invite/JSsVJWvZwD) Weird Tasks Framework only Avaliable on their Discord server link directs to there 
 ## Extras that are not included in modpack which i personally use
 - [WPO](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest) Weapon Parts Overhaul makes repairing Guns even more harder
-- [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul
+- [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul Revamps outfit degradation and repair
 - [Jabber's Roguelite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1) This S.T.A.L.K.E.R Anomaly mod gives the player a more progressive approach to Ironman playthrough
