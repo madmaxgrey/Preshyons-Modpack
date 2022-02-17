@@ -73,3 +73,6 @@ Modpack Download
 - [Reners PDA Renewed](https://www.moddb.com/mods/stalker-anomaly/addons/reners-pda-renewed-10-rpr) A retexturization of the PDA actor and his models + New Sounds
 - [Onis Tales](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales form the zone replaces the information in the loading screen with more immersive short stories
 - [WTF](https://discord.com/invite/JSsVJWvZwD) Weird Tasks Framework only Avaliable on their Discord server link directs to there 
+## Extras that are not included in modpack which i personally use
+- [WPO](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-parts-overhaul) Weapon Parts Overhaul makes repairing Guns even more harder
+- [Jabber's Roguelite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1)
