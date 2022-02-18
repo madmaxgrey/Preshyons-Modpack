@@ -12,7 +12,7 @@ ____________________________________________________________________
 
 Modpack Download
 
-* [Preshyon's Modpack](https://drive.google.com/file/d/1t3xGe9ldNEpQG-DTFzmrnOrHPyaiLXbW/view?usp=sharing)
+* [Preshyon's Modpack](https://drive.google.com/file/d/1-G-5yVz5Xq-yKIFfaSRJT_1jdzehBP_F/view?usp=sharing)
 
 ### **Installation Instructions**
 
@@ -73,7 +73,7 @@ Modpack Download
 - [Reners PDA Renewed](https://www.moddb.com/mods/stalker-anomaly/addons/reners-pda-renewed-10-rpr) A retexturization of the PDA actor and his models + New Sounds
 - [Onis Tales](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales form the zone replaces the information in the loading screen with more immersive short stories
 - [WTF](https://discord.com/invite/JSsVJWvZwD) Weird Tasks Framework only Avaliable on their Discord server link directs to there 
-## Extras that are not included in modpack which i personally use
+## Newly Added
 - [WPO](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest) Weapon Parts Overhaul makes repairing Guns even more harder
 - [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul Revamps outfit degradation and repair
 - [Jabber's Roguelite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1) This S.T.A.L.K.E.R Anomaly mod gives the player a more progressive approach to Ironman playthrough
