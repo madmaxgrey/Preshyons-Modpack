@@ -77,7 +77,7 @@ Modpack Download
 - [WPO](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest) Weapon Parts Overhaul makes repairing Guns even more harder
 - [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul Revamps outfit degradation and repair
 - [FVM](https://www.moddb.com/mods/stalker-anomaly/addons/fvm) Fixed Vanilla Models & Textures
-- [EDSTB](https://discord.com/invite/vbWwuvMSTN) Pulled from the EFP 3.0 Modpack. hyperlink points to their discord
+- [EDSTB](https://discord.com/invite/vbWwuvMSTN) Pulled from the EFP 3.0 Modpack. hyperlink points to their discord, Eniemes Don't Shoot Through Bushes
 - [SquareDOV](https://www.moddb.com/mods/stalker-anomaly/addons/squaredov) Better Minimap
 - [WPO & OPO Indicators](https://www.moddb.com/mods/stalker-anomaly/addons/cr3pis-icon-pack) **Pulled** from Cr3pis Icons Addon,
 - [Jabber's Roguelite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1) This S.T.A.L.K.E.R Anomaly mod gives the player a more progressive approach to Ironman playthrough
