@@ -9,7 +9,7 @@ extract it to any where you want it
 
 ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
-
+**Disable WPO & OPO repair items are crashing game not sure how to fix right now**
 Modpack Download
 
 * [Preshyon's Modpack](https://drive.google.com/file/d/1ijwzdNTGrjoU_cilql0LiG1dE86Z-Dey/view?usp=sharing)
