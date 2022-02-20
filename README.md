@@ -9,7 +9,7 @@ extract it to any where you want it
 
 ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
-**Disable WPO & OPO repair items are crashing game not sure how to fix right now**
+**Remove WPO & OPO they crash the game when using repair tools on weapons don't know why as fun as they are crashing isn't fun**
 Modpack Download
 
 * [Preshyon's Modpack](https://drive.google.com/file/d/1ijwzdNTGrjoU_cilql0LiG1dE86Z-Dey/view?usp=sharing)
@@ -74,10 +74,10 @@ Modpack Download
 - [Onis Tales](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales form the zone replaces the information in the loading screen with more immersive short stories
 - [WTF](https://discord.com/invite/JSsVJWvZwD) Weird Tasks Framework only Avaliable on their Discord server link directs to there 
 ## Newly Added
-- [WPO](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest) Weapon Parts Overhaul makes repairing Guns even more harder
-- [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul Revamps outfit degradation and repair
+- Remove from load [WPO](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest) Weapon Parts Overhaul makes repairing Guns even more harder
+- Remove from load [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul Revamps outfit degradation and repair
 - [FVM](https://www.moddb.com/mods/stalker-anomaly/addons/fvm) Fixed Vanilla Models & Textures
 - [EDSTB](https://discord.com/invite/vbWwuvMSTN) Pulled from the EFP 3.0 Modpack. hyperlink points to their discord, Eniemes Don't Shoot Through Bushes
 - [SquareDOV](https://www.moddb.com/mods/stalker-anomaly/addons/squaredov) Better Minimap
-- [WPO & OPO Indicators](https://www.moddb.com/mods/stalker-anomaly/addons/cr3pis-icon-pack) **Pulled** from Cr3pis Icons Addon,
+- Remove from load [WPO & OPO Indicators](https://www.moddb.com/mods/stalker-anomaly/addons/cr3pis-icon-pack) **Pulled** from Cr3pis Icons Addon,
 - [Jabber's Roguelite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1) This S.T.A.L.K.E.R Anomaly mod gives the player a more progressive approach to Ironman playthrough
