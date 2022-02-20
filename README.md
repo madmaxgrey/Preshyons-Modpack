@@ -10,6 +10,7 @@ extract it to any where you want it
 ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
 **Remove WPO & OPO they crash the game when using repair tools on weapons don't know why as fun as they are crashing isn't fun**
+ill be updating pack with them removed in a day or so. busy right now
 Modpack Download
 
 * [Preshyon's Modpack](https://drive.google.com/file/d/1ijwzdNTGrjoU_cilql0LiG1dE86Z-Dey/view?usp=sharing)
