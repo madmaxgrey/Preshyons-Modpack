@@ -12,7 +12,7 @@ ____________________________________________________________________
 
 Modpack Download
 
-* [Preshyon's Modpack](https://drive.google.com/file/d/1-G-5yVz5Xq-yKIFfaSRJT_1jdzehBP_F/view?usp=sharing)
+* [Preshyon's Modpack](https://drive.google.com/file/d/1ijwzdNTGrjoU_cilql0LiG1dE86Z-Dey/view?usp=sharing)
 
 ### **Installation Instructions**
 
