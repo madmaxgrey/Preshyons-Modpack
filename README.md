@@ -9,11 +9,10 @@ extract it to any where you want it
 
 ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
-**Remove WPO & OPO they crash the game when using repair tools on weapons don't know why as fun as they are crashing isn't fun**
-ill be updating pack with them removed in a day or so. busy right now
+
 Modpack Download
 
-* [Preshyon's Modpack](https://drive.google.com/file/d/1ijwzdNTGrjoU_cilql0LiG1dE86Z-Dey/view?usp=sharing)
+* [Preshyon's Modpack](https://drive.google.com/file/d/17cMP_a1CQzpFb_la505pMdt6jU17pLsV/view?usp=sharing)
 
 ### **Installation Instructions**
 
@@ -74,11 +73,15 @@ Modpack Download
 - [Reners PDA Renewed](https://www.moddb.com/mods/stalker-anomaly/addons/reners-pda-renewed-10-rpr) A retexturization of the PDA actor and his models + New Sounds
 - [Onis Tales](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales form the zone replaces the information in the loading screen with more immersive short stories
 - [WTF](https://discord.com/invite/JSsVJWvZwD) Weird Tasks Framework only Avaliable on their Discord server link directs to there 
-## Newly Added
-- Remove from load [WPO](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest) Weapon Parts Overhaul makes repairing Guns even more harder
-- Remove from load [OPO](https://github.com/ahuyn/anomaly-opo) Outfit Parts Overhaul Revamps outfit degradation and repair
 - [FVM](https://www.moddb.com/mods/stalker-anomaly/addons/fvm) Fixed Vanilla Models & Textures
 - [EDSTB](https://discord.com/invite/vbWwuvMSTN) Pulled from the EFP 3.0 Modpack. hyperlink points to their discord, Eniemes Don't Shoot Through Bushes
 - [SquareDOV](https://www.moddb.com/mods/stalker-anomaly/addons/squaredov) Better Minimap
-- Remove from load [WPO & OPO Indicators](https://www.moddb.com/mods/stalker-anomaly/addons/cr3pis-icon-pack) **Pulled** from Cr3pis Icons Addon,
 - [Jabber's Roguelite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1) This S.T.A.L.K.E.R Anomaly mod gives the player a more progressive approach to Ironman playthrough
+## Newly Added
+- [Cinematic VFX](https://www.moddb.com/mods/stalker-anomaly/addons/cinemavfx3-5) makes every FX such as muzzle flashes and Anomalies look AMAZING
+- [HollywoodFX](https://www.moddb.com/mods/stalker-anomaly/addons/hollywoodfx-v2) improves the in-game impact effects and makes them more Hollywood-like
+- [Persistent Weather](https://www.moddb.com/mods/stalker-anomaly/addons/persistent-weather) restores weather when reloading a save, to avoid random, awkward weather transition
+- [Skies Redux](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skyboxes) Adds brand new skyboxes to Anomaly
+- [Achievement Overhaul]() Pulled from G.A.M.M.A's modpack no download avaliable
+- [DBHD](https://www.moddb.com/mods/stalker-anomaly/addons/decreased-bush-hearing-distance) Decreased Bush Hearing Distance
+- [SortingPlus](https://www.moddb.com/mods/stalker-anomaly/addons/sorting-plus) Better Sorting System with Favorites & Junk Markers
