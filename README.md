@@ -84,4 +84,4 @@ Modpack Download
 - [Achievement Overhaul]() Pulled from G.A.M.M.A's modpack no download avaliable
 - [DBHD](https://www.moddb.com/mods/stalker-anomaly/addons/decreased-bush-hearing-distance) Decreased Bush Hearing Distance
 - [SortingPlus](https://www.moddb.com/mods/stalker-anomaly/addons/sorting-plus) Better Sorting System with Favorites & Junk Markers
-- [GC&R](https://www.moddb.com/mods/stalker-anomaly/addons/groks-craft-and-repair-overhaul) Craft and Repair Overhaul
+- [GC&R](https://www.moddb.com/mods/stalker-anomaly/addons/groks-craft-and-repair-overhaul) Grok's Craft and Repair Overhaul
