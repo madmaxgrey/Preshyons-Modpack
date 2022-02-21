@@ -26,7 +26,6 @@ Modpack Download
 
 ## Modlist
 - [VoDis](https://www.moddb.com/mods/stalker-anomaly/addons/vodis) Centered & Simple HUD
-- [ARSZIS Radiation Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/arszis-dynamic-radiation-zones-and-radiation-overhaul) Realistic Radiation
 - [FDDA](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded) adds great animations to eating,drinking and medical items.
 - [Modern UI](https://www.moddb.com/mods/stalker-anomaly/addons/modern-ui-compatible-with-all-directx) Sleek modern UI for the trade and dialogue menus
 - [MCM](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu) Mod Configuration Menu, A must have mod that allows editing of finer mod settings
@@ -85,3 +84,4 @@ Modpack Download
 - [Achievement Overhaul]() Pulled from G.A.M.M.A's modpack no download avaliable
 - [DBHD](https://www.moddb.com/mods/stalker-anomaly/addons/decreased-bush-hearing-distance) Decreased Bush Hearing Distance
 - [SortingPlus](https://www.moddb.com/mods/stalker-anomaly/addons/sorting-plus) Better Sorting System with Favorites & Junk Markers
+- [GC&R](https://www.moddb.com/mods/stalker-anomaly/addons/groks-craft-and-repair-overhaul) Craft and Repair Overhaul
