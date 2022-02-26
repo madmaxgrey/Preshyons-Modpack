@@ -75,7 +75,7 @@ Modpack Download
 - [Klean Knife]() Makes you hold yoru knife in a cooler way. **No Download Avalaible**
 - [More Guides](https://www.moddb.com/mods/stalker-anomaly/addons/151-more-guides-locations) This addon adds new npcs and changes the travel locations of the guides
 - [Persistent Weather](https://www.moddb.com/mods/stalker-anomaly/addons/persistent-weather) restores weather when reloading a save, to avoid random, awkward weather transition
-- [Onis Tales + Background](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales form the zone replaces the information in the loading screen with more immersive short stories
+- [Onis Tales + Background](https://www.moddb.com/mods/stalker-anomaly/addons/onis-tales-from-the-zone) Tales from the Zone. nice Immersive Stories by OniBarix 
 - [Free Zoom](https://www.moddb.com/mods/stalker-anomaly/addons/free-zoom) Simple script that replicates the eye zoom from the DayZ and Arma series of games
 - [LootBoxes](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes) Addes lootboxes to the game
 - [HarukaSillSystem](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skill-system) This addon adds skills with experience and leveling to anomaly
