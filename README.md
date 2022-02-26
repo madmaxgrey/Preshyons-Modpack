@@ -87,7 +87,7 @@ Modpack Download
 - [Bug Fix](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-bugged-stashes-fix) A fix for the remaining bugged/inaccessible stashes
 - [Patch]() T.H.A.P Outfit From T.H.A.P Rework
 - [Patch]() DICKS
-- [Patch] Modern UI() Fix for the Modern UI main menu and MCM menu. Only Avaliable in my Modpack. :( Sorry
+- [Patch UI]() Fix for the Modern UI main menu and MCM menu. Only Avaliable in my Modpack. :( Sorry
 
 ## Suggestions
 - [Roguelite](https://github.com/jeffboulanger/Jabbers-Ironman-Roguelite) Jabbers' Ironman Roguelite
