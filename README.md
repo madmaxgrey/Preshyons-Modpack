@@ -66,4 +66,4 @@ Modpack Download
 - [Trader Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/trader-overhaul-complete)
 - [Werid Task Framework](https://www.moddb.com/mods/stalker-anomaly/addons/weird-tasks-framework)
 ### QOL
-- to be continued taking break
+- [Separated Helments Outfits Backpacks](https://www.moddb.com/mods/stalker-anomaly/addons/separated-helmets-outfits-backpacks)
