@@ -15,7 +15,7 @@ ____________________________________________________________________
 
 Modpack Download
 
-* [Modpack](https://drive.google.com/file/d/1sfzbM8HK9FsR_C7m7cqxrqtShgx7kGVX/view?usp=sharing)
+* [My Modpack](https://drive.google.com/file/d/1sfzbM8HK9FsR_C7m7cqxrqtShgx7kGVX/view?usp=sharing) 
 * [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
 ### **Installation Instructions**
@@ -23,7 +23,7 @@ Modpack Download
 2. Create 2 Subfolders called Anomaly and MO2
 3. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
 4. [Mod Organizer2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z) Extract MO2 into the MO2 Folder 
-5. Once you have followed all the above instructions launch MO2 create portable instance direct it to the Anomaly Subfolder and click next, that should be it
+5. finale instructions extract the 2 folders from my modpack into the MO2 folder and launch Mod Organizer and should be good to go
 
 
 # Ignore Above has to be updated once modpack is officialy Avaliable
