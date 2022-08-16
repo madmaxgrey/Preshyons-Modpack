@@ -68,6 +68,7 @@ Modpack Download
 - [475 New stash Locations](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-475-new-stash-locations)
 - [Trader Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/trader-overhaul-complete)
 - [Werid Task Framework](https://www.moddb.com/mods/stalker-anomaly/addons/weird-tasks-framework)
+- [Toxic Air](https://www.moddb.com/mods/stalker-anomaly/addons/toxic-air-01) DISABLED BY DEFAULT - Enable if you want a harder experince 
 ### QOL
 - [Separated Helments Outfits Backpacks](https://www.moddb.com/mods/stalker-anomaly/addons/separated-helmets-outfits-backpacks)
 - [ArszisMutantBleeding](https://www.moddb.com/mods/stalker-anomaly/addons/arszis-mutant-bleeding)
