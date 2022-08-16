@@ -42,7 +42,7 @@ Modpack Download
 - [Alticons](https://www.moddb.com/mods/stalker-anomaly/addons/alticons)
 - [Cinematic VFX](https://www.moddb.com/mods/stalker-anomaly/addons/cinemavfx3-7)
 - [EFT Aim Rattle](https://www.moddb.com/mods/stalker-anomaly/addons/eft-aim-rattle)
-- [Fixed Vanilla Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)
+- [Fixed Vanilla Models](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)
 - [HighLight Items](https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight)
 - [Maid's Vanilla HD Icons](https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons)
 - [Dynamic Icon Indicators](https://www.moddb.com/mods/stalker-anomaly/addons/dynamic-icon-indicators)
