@@ -6,8 +6,9 @@
 - [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 - Modded Exes REQUIRED!!!
 - [STALKER-Anomaly-modded-exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes)
+- [Installation Instructions](#installation-instructions)
 - REQUIREMENT run game atleast once before using MO2
-extract it to any where you want it
+
 
 ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
@@ -15,13 +16,14 @@ ____________________________________________________________________
 Modpack Download
 
 * [Modpack](https://drive.google.com/file/d/1sfzbM8HK9FsR_C7m7cqxrqtShgx7kGVX/view?usp=sharing)
+* [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
 ### **Installation Instructions**
 1. Create a folder called STALKER Anomaly
 2. Create 2 Subfolders called Anomaly and MO2
-3. Extract the Anomaly Game into the Anomaly Folder [Anomaly Game](https://github.com/madmaxgrey/Preshyons-Modpack/edit/main/README.md#stalker-anomaly)
-4. Extract MO2 into the MO2 Folder [MO2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
-5. 
+3. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
+4. [Mod Organizer2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z) Extract MO2 into the MO2 Folder 
+5. Once you have followed all the above instructions launch MO2 create portable instance direct it to the Anomaly Subfolder and click next, that should be it
 
 
 # Ignore Above has to be updated once modpack is officialy Avaliable
