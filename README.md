@@ -82,7 +82,7 @@ Modpack Download
 - [SKIN](https://www.moddb.com/mods/stalker-anomaly/addons/s-k-i-n)
 - [SortingPlus](https://www.moddb.com/mods/stalker-anomaly/addons/sorting-plus)
 - [Persistent Weather](https://www.moddb.com/mods/stalker-anomaly/addons/persistent-weather)
-- [Enemies Don't Shoot Through Bushes]() Can't find the orginal download
+- [Enemies Don't Shoot Through Bushes](https://www.moddb.com/mods/stalker-anomaly/addons/escape-from-tarkov-footsteps-and-tinnitus-replacer)
 - [Cost in Tooltips](https://www.moddb.com/mods/stalker-anomaly/addons/cost-in-tool-tip-u4h8-and-rc18-23)
 - [Instant Tooltips](https://www.moddb.com/mods/stalker-anomaly/addons/instant-tooltip-for-rc18-23)
 - [Weapons Drop on Bodies](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-weapons-drop-on-bodies)
