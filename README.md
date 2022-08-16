@@ -26,7 +26,6 @@ Modpack Download
 5. finale instructions extract the 2 folders from my modpack into the MO2 folder and launch Mod Organizer Create Portable Instance and point it towards the anomaly subfolder and your donzo :)
 
 
-# Ignore Above has to be updated once modpack is officialy Avaliable
 ## Modlist
 
 ### Audio
