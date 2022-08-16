@@ -127,7 +127,6 @@ Modpack Download
 - [Patches for listed mods above]() which are avaliable through their installers
 ### AMCM
 - [Mod Configuration Menu](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu)
-### Your Added Mods go here
 
 
 
