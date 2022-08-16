@@ -23,7 +23,7 @@ Modpack Download
 3. open the MO2 folder and launch the ModOrganizer.exe and set it up as usual with a portable instance
 
 4. once opened in the profiles Drop down menu select Preshyon's Modpack to load and enable all the mods
-
+# Ignore Above has to be updated once modpack is officialy Avaliable
 ## Modlist
 
 ### Audio
@@ -67,3 +67,66 @@ Modpack Download
 - [Werid Task Framework](https://www.moddb.com/mods/stalker-anomaly/addons/weird-tasks-framework)
 ### QOL
 - [Separated Helments Outfits Backpacks](https://www.moddb.com/mods/stalker-anomaly/addons/separated-helmets-outfits-backpacks)
+- [ArszisMutantBleeding](https://www.moddb.com/mods/stalker-anomaly/addons/arszis-mutant-bleeding)
+- [NPC's Dies in Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/beefs-npcs-die-in-anomalies-v10)
+- [Tactical Pizza](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-emergency-tactical-pizza)
+- [Glowsticks](https://www.moddb.com/mods/stalker-anomaly/addons/glowsticks)
+- [Looting Takes Time](https://www.moddb.com/mods/stalker-anomaly/addons/looting-takes-time-01)
+- [Money Management](https://www.moddb.com/mods/stalker-anomaly/addons/money-management-v1)
+- [Nitpickers](https://www.moddb.com/mods/stalker-anomaly/addons/nitpickermodpack)
+- [Parts in Tooltips](https://www.moddb.com/mods/stalker-anomaly/addons/parts-in-tooltip)
+- [Remove Dropping Weapons](https://www.moddb.com/mods/stalker-anomaly/addons/remove-dropping-weapons-from-damage-for-151-final)
+- [SKIN](https://www.moddb.com/mods/stalker-anomaly/addons/s-k-i-n)
+- [SortingPlus](https://www.moddb.com/mods/stalker-anomaly/addons/sorting-plus)
+- [Persistent Weather](https://www.moddb.com/mods/stalker-anomaly/addons/persistent-weather)
+- [Enemies Don't Shoot Through Bushes]() Can't find the orginal download
+- [Cost in Tooltips](https://www.moddb.com/mods/stalker-anomaly/addons/cost-in-tool-tip-u4h8-and-rc18-23)
+- [Instant Tooltips](https://www.moddb.com/mods/stalker-anomaly/addons/instant-tooltip-for-rc18-23)
+- [Weapons Drop on Bodies](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-weapons-drop-on-bodies)
+- [MutantLootEdit](https://www.moddb.com/mods/stalker-anomaly/addons/mutants-have-all-mutant-parts)
+- [Hobo Matches](https://github.com/SmurfzXD/Hobomatches/releases/tag/1.3)
+### DLTX MM
+- [PATRON Ammo Icons](https://www.moddb.com/mods/stalker-anomaly/addons/patron-ammo-icons)
+- [DLTX Minimod Pack](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-required-dltx-minimod-pack) Contains 11 from the listed below
+- [Cheaper Ammo]()
+- [Less Radiation Damage]()
+- [Loot Crows]()
+- [Lost to the Zone]()
+- [Mutants Less Jumping]()
+- [Rats are not Enemies]()
+- [Anomaly Radios Extended]()
+- [Storylines DLTX + Radio + LTTZ Patch]()
+- [Weightless Ammo]()
+### UI
+- [SidHud](https://www.moddb.com/mods/stalker-anomaly/addons/sidhud)
+- [CrispyHud Addon](https://www.moddb.com/mods/stalker-anomaly/addons/crispyhud-151)
+- [Crook's Faction Identifcation UI](https://www.moddb.com/mods/stalker-anomaly/addons/crooks-faction-identification-ui)
+- [EFT Menu Forest](https://www.moddb.com/mods/stalker-anomaly/addons/eft-forest-menu-background)
+- [Compass Overlay](https://www.moddb.com/mods/stalker-anomaly/addons/raven800scompassoverlay20)
+- [Reners PDA Renewed](https://www.moddb.com/mods/stalker-anomaly/addons/reners-pda-renewed-v1-3-revision)
+### Craft & Repair
+- [Weapon Parts Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-parts-overhaul)
+- [Outfit Parts Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/outfit-parts-and-repair-overhaul)
+- [Groks Craft & Repair](https://www.moddb.com/mods/stalker-anomaly/addons/groks-craft-and-repair-overhaul)
+### Gunplay
+- [Boomsticks & Sharpsticks](https://www.moddb.com/mods/stalker-anomaly/addons/boomsticks-and-sharpsticks)
+- [DLTX Simple Weapons Pack](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-simple-weapons-pack)
+- [DLTX Misc Weapons Pack](https://www.moddb.com/mods/stalker-anomaly/addons/dltx-misc-weapons-pack)
+- [BlindsideReanimationPackLoner](https://www.moddb.com/mods/stalker-anomaly/addons/blindsides-weapon-reanimation-and-rebalance-loner)
+- [Anomaly Magazines Redux](https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux)
+- [Modular Ballistic Framework](https://github.com/ahuyn/anomaly-ballistics)
+### High Priority
+- [Golden Autumn Retexture](https://www.moddb.com/mods/stalker-anomaly/addons/golden-autumn-retexture-v10)
+- [T.A.C Tech Loadouts](https://www.moddb.com/mods/stalker-anomaly/addons/tacs-lootbox-loadouts)
+- [Simplified Vision UI](https://www.moddb.com/mods/stalker-anomaly/addons/simplified-vision)
+- [Zone Customization Pack](https://www.moddb.com/mods/stalker-anomaly/addons/survival-mode-remade-151)
+### Misc
+- [Patches for listed mods above]() which are avaliable through their installers
+### AMCM
+- [Mod Configuration Menu](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu)
+### Your Added Mods go here
+
+
+
+
+
