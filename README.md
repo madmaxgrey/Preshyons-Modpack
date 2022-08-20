@@ -60,7 +60,7 @@ Modpack Download
 - [Weapon Cover Tilt](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-cover-tilt-inertia)
 ### Gameplay
 - [HarukaSkillSystem](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skill-system)
-- [Lootboxes](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-lootboxes)
+- [Lootboxes](https://github.com/ahuyn/anomaly-loot/releases/tag/latest)
 - [RogueLite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1)
 - [Perk Based Artifacts](https://www.moddb.com/mods/stalker-anomaly/addons/perk-based-artefacts)
 - [Coordinated Base safezones](https://www.moddb.com/mods/stalker-anomaly/addons/tb-coordinate-based-safe-zones-v1-0)
@@ -108,8 +108,8 @@ Modpack Download
 - [Compass Overlay](https://www.moddb.com/mods/stalker-anomaly/addons/raven800scompassoverlay20)
 - [Reners PDA Renewed](https://www.moddb.com/mods/stalker-anomaly/addons/reners-pda-renewed-v1-3-revision)
 ### Craft & Repair
-- [Weapon Parts Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-parts-overhaul)
-- [Outfit Parts Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/outfit-parts-and-repair-overhaul)
+- [Weapon Parts Overhaul](https://github.com/ahuyn/anomaly-wpo/releases/tag/latest)
+- [Outfit Parts Overhaul](https://github.com/ahuyn/anomaly-opo/releases/tag/latest)
 - [Groks Craft & Repair](https://www.moddb.com/mods/stalker-anomaly/addons/groks-craft-and-repair-overhaul)
 ### Gunplay
 - [Boomsticks & Sharpsticks](https://www.moddb.com/mods/stalker-anomaly/addons/boomsticks-and-sharpsticks)
