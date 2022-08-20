@@ -5,7 +5,7 @@
 
 - [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
 - Modded Exes REQUIRED!!!
-- [STALKER-Anomaly-modded-exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes)
+- [STALKER-Anomaly-modded-exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) < get if your not using my entire modpack but for Individual Mods
 - [Installation Instructions](#installation-instructions)
 - REQUIREMENT run game atleast once before using MO2
 
@@ -14,7 +14,7 @@ ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
 
 Modpack Download
-
+* [ANOMALY Configs]()
 * [My Modpack](https://drive.google.com/file/d/1OLF6X_ihyUEyeQ-2m9cozu4gc0j8A7hz/view?usp=sharing) 
 * [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
@@ -32,7 +32,6 @@ Modpack Download
 - [JSRS Sound Mod](https://www.moddb.com/mods/stalker-anomaly/addons/solarint-gunshot-overhaul)
 - [EFT Jump & Land SFX](https://www.moddb.com/mods/stalker-anomaly/addons/eft-jumpland-sfx)
 - [Nep Death SFX](https://www.moddb.com/mods/stalker-anomaly/addons/neptune-death-sfx-replacer)
-- [PreBlowoutMurder](https://www.moddb.com/mods/stalker-anomaly/addons/pre-blowout-murder)
 - [Soundscape Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/soundscape-overhaul-2)
 - [Low Ammo Sounds](https://drive.google.com/file/d/1KUlIA75gn7VUES6hg2ERr80CNOJ00V0J/view?usp=sharing)
 - [EFT Inventory Sounds](https://www.moddb.com/mods/stalker-anomaly/addons/eft-inventory-sound)
@@ -41,16 +40,12 @@ Modpack Download
 - [Alticons](https://www.moddb.com/mods/stalker-anomaly/addons/alticons)
 - [Cinematic VFX](https://www.moddb.com/mods/stalker-anomaly/addons/cinemavfx3-7)
 - [EFT Aim Rattle](https://www.moddb.com/mods/stalker-anomaly/addons/eft-aim-rattle)
-- [Fixed Vanilla Models](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)
 - [HighLight Items](https://www.moddb.com/mods/stalker-anomaly/addons/background-color-highlight)
-- [Maid's Vanilla HD Icons](https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons)
 - [Dynamic Icon Indicators](https://www.moddb.com/mods/stalker-anomaly/addons/dynamic-icon-indicators)
 - [HighResLoadingScreens](https://www.moddb.com/mods/stalker-anomaly/addons/high-resolution-loading-screen)
 - [HighResPDAMaps](https://www.moddb.com/mods/stalker-anomaly/addons/high-resolution-maps)
-- [Anime Portrets]() No Download
 - [Skies Redux / *Free Mutant Video*](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skyboxes)
 ### Animations
-- [FDDA](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded)
 - [Better Status Bars](https://www.moddb.com/mods/stalker-anomaly/addons/better-stats-bars)
 - [Barry's Better Knives](https://www.moddb.com/mods/stalker-anomaly/addons/barrys-better-knives)
 - [Camera Reanimation Project](https://www.moddb.com/mods/stalker-anomaly/addons/camera-reanimation-project-inertia)
@@ -119,10 +114,14 @@ Modpack Download
 - [Anomaly Magazines Redux](https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux)
 - [Modular Ballistic Framework](https://github.com/ahuyn/anomaly-ballistics)
 ### High Priority
-- [Golden Autumn Retexture](https://www.moddb.com/mods/stalker-anomaly/addons/golden-autumn-retexture-v10)
 - [T.A.C Tech Loadouts](https://www.moddb.com/mods/stalker-anomaly/addons/tacs-lootbox-loadouts)
 - [Simplified Vision UI](https://www.moddb.com/mods/stalker-anomaly/addons/simplified-vision)
+- [Maid's Vanilla HD Icons](https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons)
+- [Anime Portrets]() No Download
 - [Zone Customization Pack](https://www.moddb.com/mods/stalker-anomaly/addons/survival-mode-remade-151)
+- [PreBlowoutMurder](https://www.moddb.com/mods/stalker-anomaly/addons/pre-blowout-murder)
+- [Golden Autumn Redux](https://www.moddb.com/mods/stalker-anomaly/addons/golden-autumn-redux)
+- [FDDA](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded)
 ### Misc
 - [Patches for listed mods above]() which are avaliable through their installers
 ### AMCM
