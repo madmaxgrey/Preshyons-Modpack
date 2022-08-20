@@ -22,8 +22,9 @@ Modpack Download
 1. Create a folder called STALKER Anomaly
 2. Create 2 Subfolders called Anomaly and MO2
 3. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
-4. [Mod Organizer2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z) Extract MO2 into the MO2 Folder 
-5. finale instructions extract the 2 folders from my modpack into the MO2 folder and launch Mod Organizer Create Portable Instance and point it towards the anomaly subfolder and your donzo :)
+4. [Anomaly Config] [Extract the Anomaly Configs contents into main game folder and overwrite bin & gamedata]
+5. [Mod Organizer2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z) Extract MO2 into the MO2 Folder 
+6. finale instructions extract the 2 folders from my modpack into the MO2 folder and launch Mod Organizer Create Portable Instance and point it towards the anomaly subfolder and your donzo :)
 
 
 ## Modlist
