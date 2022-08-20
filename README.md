@@ -4,8 +4,8 @@
 - Download link & file Requirements
 
 - [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
-- Modded Exes REQUIRED!!!
-- [STALKER-Anomaly-modded-exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes) < get if your not using my entire modpack but for Individual Mods
+- Modded Exes REQUIRED!!! Are now avaliable with Anomaly Configs download required for pack
+- [STALKER-Anomaly-modded-exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes)
 - [Installation Instructions](#installation-instructions)
 - REQUIREMENT run game atleast once before using MO2
 
@@ -56,7 +56,6 @@ Modpack Download
 - [Weapon Cover Tilt](https://www.moddb.com/mods/stalker-anomaly/addons/weapon-cover-tilt-inertia)
 ### Gameplay
 - [HarukaSkillSystem](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-skill-system)
-- [Lootboxes](https://github.com/ahuyn/anomaly-loot/releases/tag/latest)
 - [RogueLite](https://www.moddb.com/mods/stalker-anomaly/addons/jabbers-ironman-roguelite1)
 - [Perk Based Artifacts](https://www.moddb.com/mods/stalker-anomaly/addons/perk-based-artefacts)
 - [Coordinated Base safezones](https://www.moddb.com/mods/stalker-anomaly/addons/tb-coordinate-based-safe-zones-v1-0)
@@ -115,7 +114,10 @@ Modpack Download
 - [Anomaly Magazines Redux](https://www.moddb.com/mods/stalker-anomaly/addons/armr-arti-and-ravenascendants-mags-redux)
 - [Modular Ballistic Framework](https://github.com/ahuyn/anomaly-ballistics)
 ### High Priority
+- [Onis Main Menu Mod](https://www.moddb.com/mods/stalker-anomaly/addons/onis-main-menu-mod)
+- [Onis Main Menu CrispyButtons](https://www.moddb.com/mods/stalker-anomaly/addons/crispybuttons-for-onis-main-menu)
 - [T.A.C Tech Loadouts](https://www.moddb.com/mods/stalker-anomaly/addons/tacs-lootbox-loadouts)
+- [Lootboxes](https://github.com/ahuyn/anomaly-loot/releases/tag/latest)
 - [Simplified Vision UI](https://www.moddb.com/mods/stalker-anomaly/addons/simplified-vision)
 - [Maid's Vanilla HD Icons](https://www.moddb.com/mods/stalker-anomaly/addons/maids-vanilla-hd-icons)
 - [Anime Portrets]() No Download
