@@ -19,11 +19,10 @@ Modpack Download
 * [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
 ### **Installation Instructions**
-1. Create a folder called STALKER Anomaly
-2. Create 2 Subfolders called Anomaly and MO2
-3. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
-4. [Gamedata]() Extract the gamedata contents into main game folder and overwrite gamedata
-6. Run the game once without using MO2, then launch MO2 and create a portable instance and point it towards your anomaly game folder
+1. Extract Stalker Anomaly into a location of your Choice and extract the contents of Modpack in or outside of the stalker anomaly folder
+3. Run the game once without using MO2, then launch MO2 and create a portable instance and point it towards your anomaly game folder
+4. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
+5. [Gamedata](https://drive.google.com/file/d/1xQvCjHx1B3nOaHBvsRX2e1xc7CUhMCEZ/view?usp=sharing) Extract the gamedata contents into main game folder and overwrite gamedata
 
 
 ## Modlist
