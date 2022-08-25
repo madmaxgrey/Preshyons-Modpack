@@ -4,7 +4,7 @@
 - Download link & file Requirements
 
 - [S.T.A.L.K.E.R Anomaly](https://www.moddb.com/mods/stalker-anomaly)
-- Modded Exes REQUIRED!!! Are now avaliable with Anomaly Configs download required for pack
+- Modded Exes REQUIRED!!!
 - [STALKER-Anomaly-modded-exes](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes)
 - [Installation Instructions](#installation-instructions)
 - REQUIREMENT run game atleast once before using MO2
@@ -14,7 +14,7 @@ ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
 
 Modpack Download
-* [ANOMALY Configs]()
+* [Gamedata]()
 * [My Modpack](https://drive.google.com/file/d/1OLF6X_ihyUEyeQ-2m9cozu4gc0j8A7hz/view?usp=sharing) 
 * [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
@@ -22,8 +22,7 @@ Modpack Download
 1. Create a folder called STALKER Anomaly
 2. Create 2 Subfolders called Anomaly and MO2
 3. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
-4. [Anomaly Config]() Extract the Anomaly Configs contents into main game folder and overwrite bin & gamedata
-5. [Mod Organizer2](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z) Extract the contents of the MO2 zip either into your game folder or as a seperated folder
+4. [Gamedata]() Extract the gamedata contents into main game folder and overwrite bin & gamedata
 6. Run the game once without using MO2, launch MO2 and create a portable instance and point it towards your anomaly game folder
 
 
