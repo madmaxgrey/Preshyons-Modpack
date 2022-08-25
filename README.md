@@ -22,7 +22,7 @@ Modpack Download
 1. Create a folder called STALKER Anomaly
 2. Create 2 Subfolders called Anomaly and MO2
 3. [Anomaly Game](#stalker-anomaly) Extract the Anomaly Game into the Anomaly Folder
-4. [Gamedata]() Extract the gamedata contents into main game folder and overwrite bin & gamedata
+4. [Gamedata]() Extract the gamedata contents into main game folder and overwrite gamedata
 6. Run the game once without using MO2, then launch MO2 and create a portable instance and point it towards your anomaly game folder
 
 
