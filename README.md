@@ -14,8 +14,8 @@ ____________________________________________________________________
 ## My Modpack for S.T.A.L.K.E.R Anomaly
 
 Modpack Download
-* [Gamedata]() contains Preconfigured settings required
-* [My Modpack](https://drive.google.com/file/d/1OLF6X_ihyUEyeQ-2m9cozu4gc0j8A7hz/view?usp=sharing) click here to download my pack
+* [Gamedata](https://drive.google.com/file/d/1xQvCjHx1B3nOaHBvsRX2e1xc7CUhMCEZ/view?usp=sharing) contains Preconfigured settings required
+* [My Modpack](https://drive.google.com/file/d/1pwNL8NLWsqMfX1zppTl-3urFzcfuJjVb/view?usp=sharing) click here to download my pack
 * [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
 ### **Installation Instructions**
