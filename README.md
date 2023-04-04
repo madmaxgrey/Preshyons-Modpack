@@ -15,7 +15,7 @@ ____________________________________________________________________
 
 Modpack Download
 * [Gamedata](https://drive.google.com/file/d/1xQvCjHx1B3nOaHBvsRX2e1xc7CUhMCEZ/view?usp=sharing) contains Preconfigured settings required
-* [My Modpack](https://drive.google.com/file/d/1pwNL8NLWsqMfX1zppTl-3urFzcfuJjVb/view?usp=sharing) click here to download my pack
+* [My Modpack] Reworking Download unavaliable
 * [Individual Mods](#modlist) you can download the individual mods if you want they are all linked
 
 ### **Installation Instructions**
